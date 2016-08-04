@@ -1,0 +1,59 @@
+_repo: Venus-and-Adonis_1045
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Shakespeare, William
+    aliases:
+    - Shakspeare, William
+    - Shakspere, William
+    birthdate: 1564
+    deathdate: 1616
+    gutenberg_agent_id: '65'
+    url: http://www.gutenberg.org/2009/agents/65
+    wikipedia: http://en.wikipedia.org/wiki/William_Shakespeare
+description: "Venus and Adonis is a poem by William Shakespeare, written in 1592–1593,\
+  \ with a plot based on passages from Ovid's Metamorphoses. It is a complex, kaleidoscopic\
+  \ work, using constantly shifting tone and perspective to present contrasting views\
+  \ of the nature of love.\n=\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '1997-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1045'
+  wikidata: Q1066765
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Venus (Roman deity) -- Poetry'
+- !lcsh 'Adonis (Greek deity) -- Poetry'
+- !lcc 'PR'
+- GITenberg
+title: Venus and Adonis
+url: http://www.gutenberg.org/ebooks/1045
+wikipedia:
+- https://fa.wikipedia.org/wiki/%D9%88%D9%86%D9%88%D8%B3_%D9%88_%D8%A2%D8%AF%D9%88%D9%86%DB%8C%D8%B3
+- https://cs.wikisource.org/wiki/Venu%C5%A1e_i_Ad%C3%B3nis
+- https://en.wikisource.org/wiki/Venus_and_Adonis
+- https://ja.wikipedia.org/wiki/%E3%83%B4%E3%82%A3%E3%83%BC%E3%83%8A%E3%82%B9%E3%81%A8%E3%82%A2%E3%83%89%E3%83%BC%E3%83%8B%E3%82%B9
+- https://pt.wikipedia.org/wiki/Venus_and_Adonis
+- https://de.wikisource.org/wiki/William_Shakspeare%27s_s%C3%A4mmtliche_Gedichte/Venus_und_Adonis
+- https://es.wikipedia.org/wiki/Venus_y_Adonis_(poema)
+- https://en.wikipedia.org/wiki/Venus_and_Adonis_(Shakespeare_poem)
+- https://ru.wikipedia.org/wiki/%D0%92%D0%B5%D0%BD%D0%B5%D1%80%D0%B0_%D0%B8_%D0%90%D0%B4%D0%BE%D0%BD%D0%B8%D1%81
+- https://bn.wikipedia.org/wiki/%E0%A6%AD%E0%A7%87%E0%A6%A8%E0%A6%BE%E0%A6%B8_%E0%A6%85%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A1_%E0%A6%85%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A1%E0%A7%8B%E0%A6%A8%E0%A6%BF%E0%A6%B8_(%E0%A6%B6%E0%A7%87%E0%A6%95%E0%A6%B8%E0%A6%AA%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%B0%E0%A7%87%E0%A6%B0_%E0%A6%95%E0%A6%AC%E0%A6%BF%E0%A6%A4%E0%A6%BE)
+- https://ko.wikipedia.org/wiki/%EB%B9%84%EB%84%88%EC%8A%A4%EC%99%80_%EC%95%84%EB%8F%84%EB%8B%88%EC%8A%A4
+- https://hr.wikisource.org/wiki/Venera_i_Adonis
+- https://fr.wikipedia.org/wiki/V%C3%A9nus_et_Adonis_(Shakespeare)
+- https://pl.wikipedia.org/wiki/Wenus_i_Adonis_(poemat_Szekspira)
+- https://simple.wikipedia.org/wiki/Venus_and_Adonis
+- https://fy.wikipedia.org/wiki/Fenus_en_Adoanis
+- https://sv.wikipedia.org/wiki/Venus_och_Adonis
+- https://ar.wikipedia.org/wiki/%D9%81%D9%8A%D9%86%D9%88%D8%B3_%D9%88%D8%A3%D8%AF%D9%88%D9%86%D9%8A%D8%B3_(%D9%82%D8%B5%D9%8A%D8%AF%D8%A9_%D8%B4%D9%83%D8%B3%D8%A8%D9%8A%D8%B1)
+- https://nl.wikipedia.org/wiki/Venus_and_Adonis_(Shakespeare)
+- https://hu.wikisource.org/wiki/Venus_%C3%A9s_Adonis
+- https://cs.wikipedia.org/wiki/Venu%C5%A1e_a_Adonis
+- https://de.wikipedia.org/wiki/Venus_und_Adonis_(Shakespeare)
+- https://en.wikiquote.org/wiki/Venus_and_Adonis_(Shakespeare_poem)
+- https://bg.wikipedia.org/wiki/%D0%92%D0%B5%D0%BD%D0%B5%D1%80%D0%B0_%D0%B8_%D0%90%D0%B4%D0%BE%D0%BD%D0%B8%D1%81
+- https://it.wikipedia.org/wiki/Venere_e_Adone
