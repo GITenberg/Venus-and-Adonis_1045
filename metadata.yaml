@@ -1,5 +1,8 @@
 _repo: Venus-and-Adonis_1045
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Shakespeare, William
@@ -15,6 +18,8 @@ description: "Venus and Adonis is a poem by William Shakespeare, written in 1592
   \ with a plot based on passages from Ovid's Metamorphoses. It is a complex, kaleidoscopic\
   \ work, using constantly shifting tone and perspective to present contrasting views\
   \ of the nature of love.\n=\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1045#Venus-and-Adonis
 gutenberg_issued: '1997-09-01'
 gutenberg_type: Text
 identifiers:
